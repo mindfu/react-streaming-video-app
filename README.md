@@ -1,10 +1,30 @@
-This is an application for streaming video with OBS Studio[https://obsproject.com/].  
+## Table of contents
+* [General info](#general-info)
+* [Technologies](#technologies)
+* [Setup](#setup)
 
-In each of the folders: client, api, rtmpserver, use the command 'npm install'
+## General info
+This is an application for streaming video with OBS Studio[https://obsproject.com/]. 
+	
+## Technologies
+Project is created with create-react-app:
+* version: 12.3
+	
+## Setup
+To run this project, install each folder locally using npm:
 
-Then 'npm start' for each in three separate terminal windows.  
+$ cd ../client
+$ npm install
+$ npm start
+$ cd ../api
+$ npm install
+$ npm start
+$ cd ../rtmpserver
+$ npm install
+$ npm start
 
-Client runs on port 3000
-API runs on port 3001
-RTMPServer runs on port 8000
+```
+* Client runs on port 3000
+* API runs on port 3001
+* RTMPServer runs on port 8000
 
