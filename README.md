@@ -14,15 +14,15 @@ Project is created with create-react-app:
 ## Setup
 To run this project, install each folder locally using npm:
 
-`$ cd ./client`
-`$ npm install`
-`$ npm start`
-``$ cd ./api`
-`$ npm install`
-`$ npm start`
-`$ cd ./rtmpserver`
-`$ npm install`
-`$ npm start`
+- $ cd ./client
+- $ npm install
+- $ npm start
+- $ cd ./api
+- $ npm install
+- $ npm start
+- $ cd ./rtmpserver
+- $ npm install
+- $ npm start
 
 ```
 * Client runs on port 3000
